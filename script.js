@@ -17,7 +17,7 @@ const teamData = {
   },
   haven: {
     background: "haven.jpg",
-    Kaki: ["iso", "yoru"],
+    Kaki: ["iso", "neon"],
     Deva: ["fade"],
     Tryno: ["breach"],
     Drako: ["omen"],
