@@ -39,13 +39,13 @@ const teamData = {
     Drako: ["omen"],
     Mario: ["cypher", "vyse"]
   },
-  fracture: {
-    background: "fracture.jpg",
+  sunset: {
+    background: "sunset.jpg",
     Kaki: ["neon", "raze"],
-    Deva: ["tejo", "breach"],
-    Tryno: ["breach", "tejo"],
-    Drako: ["brimstone"],
-    Mario: ["cypher"]
+    Deva: ["gekko", "fade"],
+    Tryno: ["kayo", "breach"],
+    Drako: ["omen", "clove"],
+    Mario: ["vyse"]
   },
   split: {
     background: "split.jpg",
